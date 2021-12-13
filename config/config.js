@@ -1,1 +1,0 @@
-// attachment to sequelize/db similar to connection.js
